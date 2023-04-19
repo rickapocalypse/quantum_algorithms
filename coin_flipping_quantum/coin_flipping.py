@@ -8,8 +8,6 @@ backend = BasicAer.get_backend('qasm_simulator')
 job = execute(qc, backend, shots=1).result()
 count = job.data(qc)
 
-print()
-
 if count['counts'].get('0x0') == True:
     print('Colapsou em 0')
 else:
