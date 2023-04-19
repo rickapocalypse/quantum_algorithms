@@ -21,4 +21,4 @@ $$
 Challenge: build a quantum algorithm that givesn the number of qubits in the circuit, returns a GHZ state with n = qubits.
 Below you can see the circuit for n = 5 qubits.
 
-![GHZ Circuit](https://raw.githubusercontent.com/rickapocalypse/N_GHZ/master/img_example/qc_n%3D5.png)
+![GHZ Circuit](https://raw.githubusercontent.com/rickapocalypse/quantum_algorithms/master/N_GHZ/img_example/qc_n%3D5.png)
